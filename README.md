@@ -30,9 +30,9 @@ Additionally, it contains a file for every class created during the development 
 
 ----------------------------------------------------------------------------------------------------------------------------
 ### References:
-[1] pandas Development Team. (2021). pandas: Powerful data analysis toolkit. Zenodo. https://doi.org/10.5281/zenodo.597392
-[2] TkinterDev. (2021). tkcalendar: A date picker widget for Tkinter. GitHub. https://github.com/tkinterdev/tkcalendar
-[3] Anaconda. (n.d.). Anaconda Software Distribution (Version 23.3.1) [Computer software]. Continuum Analytics. Available from https://www.anaconda.com/
+[1] pandas Development Team. (2021). pandas: Powerful data analysis toolkit. Zenodo. https://doi.org/10.5281/zenodo.597392  
+[2] TkinterDev. (2021). tkcalendar: A date picker widget for Tkinter. GitHub. https://github.com/tkinterdev/tkcalendar  
+[3] Anaconda. (n.d.). Anaconda Software Distribution (Version 23.3.1) [Computer software]. Continuum Analytics. Available from https://www.anaconda.com/  
 
 License Creative-Common (CC 4.0)
 
